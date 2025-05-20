@@ -1,10 +1,10 @@
-I have worked with Software Engineers since 2014 as a Technical Writer, which included gathering requirements, defining strategy, project management, planning and stakeholder communication in several positions encompassing a variety of specializations and sectors. My documentation portfolio is available on my [other profile](https://github.com/sylvia-blaho). 
+📜 I have worked with Software Engineers since 2014 as a Technical Writer, which included gathering requirements, defining strategy, project management, planning and stakeholder communication in several positions encompassing a variety of specializations and sectors. My documentation portfolio is available on my [other profile](https://github.com/sylvia-blaho). 
 
-I have gradually pivoted to more and more hands-on coding since 2019, completing 2 Full Stack Web Development degrees with different tech stacks, contributing to the testing and writing of code snippets in my documentation projects, and taking on a number of freelance coding assignments.
+👩🏻‍💻 I have gradually pivoted to more and more hands-on coding since 2019, completing 2 Full Stack Web Development degrees with different tech stacks, contributing to the testing and writing of code snippets in my documentation projects, and taking on a number of freelance coding assignments.
 
-Prior to transitioning to Tech, I was a researcher & lecturer in Formal Linguistics, with a focus on editing, typesetting & teaching LaTeX. I also gathered, analysed and presented data to diverse audiences. Some of my publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=xMxXcoxsuNUC).
+🎓 Prior to transitioning to Tech, I was a researcher & lecturer in Formal Linguistics, with a focus on editing, typesetting & teaching LaTeX. I also gathered, analysed and presented data to diverse audiences. Some of my publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=xMxXcoxsuNUC).
 
-<h2> Tools and Techologies</h2>
+<h2> Tools & Techologies</h2>
 
 <table>
 <tr>
