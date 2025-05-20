@@ -60,9 +60,25 @@
       </p>
     </td>
     <td align="center">
-      <h3>Other tools</h3>
+      <h3>Testing</h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="45" height="45"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Project management</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" alt="Trello" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub Issues" width="45" height="45"/>
+      </p>
+    </td>
+    <td align="center">
+      <h3>Code editors</h3>
+      <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitpod/gitpod-plain-wordmark.svg" alt="Gitpod" width="45" height="45"/>
